@@ -1,0 +1,10 @@
+.div__stat {
+  display: grid;
+  max-width: 50%;
+  grid-template-columns: 40% 40%;
+  grid-auto-rows: 50px;
+  grid-gap: 5px;
+  justify-content: start;
+  padding: 0;
+  list-style: none;
+}

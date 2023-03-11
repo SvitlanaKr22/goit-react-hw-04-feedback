@@ -1,0 +1,8 @@
+@import-normalize;
+
+.section {
+  margin: 5px 50px;
+  padding: 10px;
+  font-size: 28px;
+  color: #010101;
+}

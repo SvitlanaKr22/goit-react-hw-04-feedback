@@ -1,0 +1,23 @@
+@import-normalize;
+
+.button_feedback {
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  margin-right: 20px;
+  padding: 10px 20px;
+  border: solid 1px transparent;
+  border-radius: 4px;
+  cursor: pointer;
+  color: #faf5f5;
+  background-color: #864141;
+  font-size: 0.7em;
+  font-weight: 700;
+}
+
+.button_feedback:hover,
+.button_feedback:focus {
+  color: #864141;
+  border-color: currentColor;
+  background-color: white;
+}
